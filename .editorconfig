@@ -1,0 +1,6 @@
+# top-most EditorConfig file
+root = true
+
+# Windows-style newlines with a blank line ending only C# & VB files
+[*.{cs,vb}]
+end_of_line = crlf
